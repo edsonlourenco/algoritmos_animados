@@ -4,7 +4,7 @@ O MapReduce é um modelo de programação e uma estrutura de processamento de da
 
 Embora o MapReduce seja frequentemente usado para tarefas de processamento de dados em larga escala, ele não é especificamente um algoritmo de ordenação. Em vez disso, o MapReduce é um paradigma que consiste em duas fases principais: a fase de Map e a fase de Reduce.
 
-![Diagrama animado do Map Reduce](../computacao_distribuida/drawio/map-reduce.drawio.svg)
+![Diagrama animado do Map Reduce](../../computacao_distribuida/mapreduce/drawio/map-reduce.drawio.svg)
 
 Basicamente para facilitar nossa compreensão um Map Reduce pode ser dividido em duas fases, sendo elas:
 
