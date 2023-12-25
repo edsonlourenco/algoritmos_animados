@@ -16,6 +16,7 @@ Basicamente para facilitar nossa compreensão um Map Reduce pode ser dividido em
 
 Embora o MapReduce seja aplicável a uma variedade de problemas, incluindo processamento de dados, pesquisa em grandes conjuntos de dados e contagem de palavras, ele não é diretamente vinculado a algoritmos de ordenação. No entanto, algoritmos de ordenação podem ser implementados usando o paradigma MapReduce, especialmente em cenários onde a ordenação precisa ser distribuída em vários nós de computação.
 
-* [Veja aqui em programação Python como ficaria](../computacao_distribuida/src/python/algoritmo_map_reduce.py)
-* [Veja aqui o Notebook Jupyter do mesmo código como ficaria](../computacao_distribuida/src/python/algoritmo_map_reduce.ipynb)
+* [Veja aqui em programação Python como ficaria](../../computacao_distribuida/mapreduce/src/python/algoritmo_map_reduce.py)
+* [Veja aqui o Notebook Jupyter do mesmo código como ficaria](../../computacao_distribuida/mapreduce/src/python/algoritmo_map_reduce.ipynb)
+
 ---

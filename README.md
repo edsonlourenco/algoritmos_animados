@@ -40,7 +40,7 @@ Minha jornada como desenvolvedor em diferentes contextos permitiu-me explorar a 
 
 ## Algoritmos
 
-1. [MapReduce](computacao_distribuida/README.md)
+1. [MapReduce](computacao_distribuida/mapreduce/README.md)
 
 ---
 
