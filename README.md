@@ -1,6 +1,6 @@
 # Algoritmos Animados
 
-![demo do que voce vai encontrar aqui ;-)](../algoritmos_animados/demo-animated-drawio.svg)
+![demo do que voce vai encontrar aqui ;-)](demo-animated-drawio.svg)
 
 ## Visão Geral
 
