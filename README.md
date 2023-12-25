@@ -1,5 +1,7 @@
 # Algoritmos Animados
 
+![demo do que voce vai encontrar aqui ;-)](../algoritmos_animados/demo-animated-drawio.svg)
+
 ## Visão Geral
 
 ⚠️ Este repositório tem como objetivo fornecer um guia visual e interativo para algoritmos comumente usados na área de Ciência de Dados, Engenharia de Machine Learning, Engenharia de Dados e/ou programação em geral. Os algoritmos animados são projetados para facilitar a compreensão tanto para estudantes quanto para profissionais, oferecendo uma experiência de aprendizado dinâmica.
