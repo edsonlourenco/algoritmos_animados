@@ -133,8 +133,6 @@ Os usuários podem relatar problemas, buscar ajuda ou fornecer feedback por meio
 
 ## Licença
 
-Especificar a licença sob a qual o repositório é distribuído e quaisquer termos relevantes.
+Apache Software Foundation
 
 ---
-
-Sinta-se à vontade para adaptar este modelo de README conforme as especificidades do seu repositório. Boa codificação e aprendizado! -->
